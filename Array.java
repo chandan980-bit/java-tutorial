@@ -3,6 +3,7 @@ public class Array {
     //1. create an array
     public static void CreateArray(int marks[]){
         System.out.println("MATH = "+marks[1]);
+        System.out.println("MATH = "+marks[1]);
     }
         
     //2. Length of the array
